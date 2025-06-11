@@ -1,4 +1,5 @@
-@library('lucien-shared-library')
+@library('lucien-shared-library')_
+
 pipeline {
     environment {
         IMAGE_NAME = 'webapp'

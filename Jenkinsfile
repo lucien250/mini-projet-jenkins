@@ -1,4 +1,4 @@
-@library('lucien-shared-library')_
+@Library('lucien-shared-library') _
 
 pipeline {
     environment {
